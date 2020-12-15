@@ -29,6 +29,7 @@ h1 {
 
 .content-name{
   overflow: none;
+  float: right;
   text-align: center;
   border: 2px solid black;
   width: 100px;
